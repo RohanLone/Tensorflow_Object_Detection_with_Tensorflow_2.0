@@ -19,4 +19,6 @@ I used ssd_mobilenet_v2_320x320_coco17_tpu pretrained model for training and con
 
 After everything successful, Loaded images with bounding boxes, labels, and accuracy! 
 
-![alt-text-1](https://github.com/RohanLone/Tensorflow_Object_Detection_with_Tensorflow_2.0/blob/main/doc/7.png) ![alt-text-2](https://github.com/RohanLone/Tensorflow_Object_Detection_with_Tensorflow_2.0/blob/main/doc/6.png)
+![alt-text](https://github.com/RohanLone/Tensorflow_Object_Detection_with_Tensorflow_2.0/blob/main/doc/7.png) 
+![alt-text](https://github.com/RohanLone/Tensorflow_Object_Detection_with_Tensorflow_2.0/blob/main/doc/6.png)
+![alt-text](https://github.com/RohanLone/Tensorflow_Object_Detection_with_Tensorflow_2.0/blob/main/doc/8.png)
