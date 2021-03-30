@@ -6,7 +6,7 @@ Created own dataset. Used labelimg for Annotation and saved in xml format. Conve
 This script[generate_tfrecords.py](https://github.com/RohanLone/Tensorflow_Object_Detection_with_Tensorflow_2.0/blob/main/generate_tfrecord.py) will be used to covert the csv into the TFRecord format. 
 
 I used ssd_mobilenet_v2_320x320_coco17_tpu pretrained model for training and configuration as follows:
-  1. num_classes: 3
+  1. num_classes: 1
   2. fine_tune_checkpoint: "ssd_mobilenet_v2_320x320_coco17_tpu-8/checkpoint/ckpt-0"
   3. fine_tune_checkpoint_type: "detection"
   4. batch_size: 16
